@@ -245,8 +245,8 @@ footer{
 }
 
 .sideimg{
-    width: 300px;
-    align-content: center;
+    width: 250px;
+    justify-content: center;
 }
 
 .reasons{
