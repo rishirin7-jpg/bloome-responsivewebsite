@@ -342,7 +342,8 @@ footer{
 }
 
 .imginbox{
-    width: 300px;
+    width: 280px;
+    justify-content: center;
 }
 
  .made4moment h2{
